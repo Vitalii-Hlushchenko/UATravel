@@ -412,6 +412,10 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      top: 15px;
      font-weight: 700;
 }
+.logo-area{
+     width:120px;
+     margin-top: -0.5rem;
+}
 /*===================================================== 02. slider area section title css goes here =======================================================*/
  .slider-area {
      min-height: 1000px;
@@ -1000,6 +1004,12 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
  .single-travel:hover {
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
      cursor: pointer;
+}
+.travel--2{
+     padding-bottom: 9rem;
+}
+.travel--3{
+     padding-bottom: 13.6rem;
 }
 
 /*===================================================== 10.Testimonial section css goes here =======================================================*/
