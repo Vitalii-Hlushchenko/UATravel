@@ -1,34 +1,17 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "post one ",
-      "body": "body of post one",
-      "publishedAt": "10-01-2022"
-    },
-    {
-      "id": "2",
-      "title": "post two",
-      "body": "body of post",
-      "publishedAt": "10-01-2022"
-    },
-    {
-      "id": "3",
-      "title": "post three",
-      "body": "body of post",
-      "publishedAt": "10-01-2022"
-    },
-    {
-      "title": "post four",
-      "body": " body of post four",
-      "publishedAt": "10-01-2022",
-      "id": "RmmVSPc"
-    },
-    {
-      "title": "adminPost",
-      "body": "yaaaa",
-      "publishedAt": "2022-05-04",
-      "id": "wJgfPZN"
+      "title": "image test",
+      "body": "bodykkjhkjh",
+      "publishedAt": "2022-06-10",
+      "pictures": {
+        "rawFile": {
+          "path": "f6.jpg"
+        },
+        "src": "blob:http://localhost:3000/5eb71994-65ad-4d39-abdc-f53b810be612",
+        "title": "f6.jpg"
+      },
+      "id": "OOm4U-0"
     }
   ]
 }
