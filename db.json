@@ -1,0 +1,98 @@
+{
+  "posts": [
+    {
+      "place": "Турееччина",
+      "body": "8 днів/ 7 ночей",
+      "publishedAt": "2022-06-15",
+      "price": "400",
+      "img": "https://joinup.ua/media/2015/01/dalaman-turtsiya.jpg",
+      "type": "Пляжний відпочинок",
+      "residence": "Готель 3 зірки",
+      "food": "Сніданки та вечері",
+      "id": "8czgzAT"
+    },
+    {
+      "place": "Єгипет",
+      "body": "8 днів/ 7 ночей",
+      "publishedAt": "2022-06-15",
+      "price": "500",
+      "img": "https://www.myvin.com.ua/uploads/article/img_large/9209/304cf05b75419ddb0a6837f5712f703b.jpeg",
+      "type": "Пляжний відпочинок",
+      "residence": "Готель 4 зірки",
+      "food": "Все включено",
+      "id": "9zCGNlI"
+    },
+    {
+      "place": "Греція",
+      "body": "5 днів/ 4 ночі",
+      "publishedAt": "2022-06-13",
+      "price": "350",
+      "img": "https://www.king-travel.com.ua/uploads/posts/2012-06/1340562915_95888837.jpg",
+      "type": "Пляжний відпочинок",
+      "residence": "Готель 3 зірки",
+      "food": "Все включено",
+      "id": "cnpFEXV"
+    }
+  ],
+  "clients": [
+    {
+      "e-mail": "vitalikglush@gmail.com",
+      "id": 1
+    },
+    {
+      "e-mail": "fghfghfh@gmail.com",
+      "id": 2
+    },
+    {
+      "e-mail": "sasha@gmail.com",
+      "id": 3
+    },
+    {
+      "e-mail": "ira@gmail.com",
+      "id": 4
+    },
+    {
+      "e-mail": "dima@gmail.com",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "body": "comment",
+      "e-mail": "ira@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "anathem@i.ua",
+      "message": "comment",
+      "id": 5
+    },
+    {
+      "e-mail": "ira@gmail.com",
+      "body": "fghfgh",
+      "id": 6
+    },
+    {
+      "e-mail": "fghfghfh@gmail.com",
+      "body": "gjghjg",
+      "id": 7
+    }
+  ],
+  "request": [
+    {
+      "e-mail": "ira@gmail.com",
+      "place": "Греція",
+      "id": 1
+    },
+    {
+      "e-mail": "fghfghfh@gmail.com",
+      "place": "Турееччина",
+      "id": 2
+    },
+    {
+      "e-mail": "ira@gmail.com",
+      "place": "Греція",
+      "id": 3
+    }
+  ]
+}
